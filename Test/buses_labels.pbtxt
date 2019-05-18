@@ -1,0 +1,31 @@
+item {
+  id: 1
+  name: 'Green Bus'
+}
+
+item {
+  id: 2
+  name: 'Yellow Bus'
+}
+
+item {
+  id: 3
+  name: 'White Bus'
+}
+
+item {
+  id: 4
+  name: 'Grey Bus'
+}
+
+
+item {
+  id: 5
+  name: 'Blue Bus'
+}
+
+item {
+  id: 6
+  name: 'Red Bus'
+}
+
